@@ -1,0 +1,8 @@
+{
+  "name":"ariceba-cotizador-publico",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{"build":"next build","dev":"next dev"},
+  "dependencies":{"@supabase/supabase-js":"2.57.4","next":"16.3.4","react":"19.2.8","react-dom":"19.2.8"},
+  "devDependencies":{"typescript":"5.9.2","@types/node":"24.3.0","@types/react":"19.1.12","@types/react-dom":"19.1.9"}
+}
